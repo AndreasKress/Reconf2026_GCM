@@ -1,10 +1,10 @@
-# Reconf2026\_GCM
+# REConf2026\_GCM
 
-A demo Repository for the GCM workshop
+
+
+A Demo Repository for the GCM Workshop - Munich REConf2026 
+
+
 
 Have fun!
-
-
-
-
 
